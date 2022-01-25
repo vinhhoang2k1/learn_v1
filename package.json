@@ -1,0 +1,29 @@
+{
+    "name": "learn_v1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vinhhoang2k1/learn_v1.git"
+    },
+    "keywords": [
+        "learn_v1"
+    ],
+    "author": "vinh-hoang",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/vinhhoang2k1/learn_v1/issues"
+    },
+    "homepage": "https://github.com/vinhhoang2k1/learn_v1#readme",
+    "dependencies": {
+        "express": "^4.17.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
